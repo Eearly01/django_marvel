@@ -1,0 +1,15 @@
+.body {
+  text-align: center;
+}
+
+.characters {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.characterCards {
+  margin: 20px;
+  padding: 15px;
+  border-style: solid;
+  border-radius: 8px;
+}
